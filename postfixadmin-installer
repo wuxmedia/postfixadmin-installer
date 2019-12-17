@@ -170,7 +170,7 @@ if($overwrite){
 	printRed(", overwriting existing installations");
 	print "\n";
 }else{
-	print ", aborting if another installtion is detected\n";
+	print ", aborting if another installation is detected\n";
 }
 print "\nFQDN guessed as ";
 printYellow($fqdn);
